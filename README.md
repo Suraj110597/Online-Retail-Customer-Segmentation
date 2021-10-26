@@ -1,4 +1,7 @@
 # Online-Retail-Customer-Segmentation
+
+![image](https://user-images.githubusercontent.com/66847170/138936000-142b3472-995d-4c44-bf6c-8dada753b277.png)
+
 # Problem Statement
 
 In this project, the task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
